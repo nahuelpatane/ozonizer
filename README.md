@@ -1,4 +1,4 @@
-# ozonizer
+# Ozonizer
 
 # Ingreso de stock manual los subconjuntos fabricados
 
