@@ -1,6 +1,6 @@
 # Ozonizer
 
-# Ingreso de stock manual los subconjuntos fabricados
+:doc:`Ingreso de stock manual los subconjuntos fabricados`
 
 - [ ]  Ingreso Egreso stock
 - [ ]  Consulta de Drive sobre componentes “Productos y Subconjuntos DUX”
