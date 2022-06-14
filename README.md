@@ -2,6 +2,8 @@
 
 # Ingreso de stock manual los subconjuntos fabricados
 
+:doc:`Ingreso de stock manual los subconjuntos fabricados`
+
 - [ ]  Ingreso Egreso stock
 - [ ]  Consulta de Drive sobre componentes “Productos y Subconjuntos DUX”
 - [ ]  Con el codigo del producto, ir armando el conjunto final (3006 + 3010 + 3004)
